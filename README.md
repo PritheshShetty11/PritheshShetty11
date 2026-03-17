@@ -8,7 +8,7 @@ Technical Skills
 •	Jupyter Notebooks for data-driven development, analysis, and experimentation
 •	Databases: MySQL
 •	Machine Learning, Scikit-learn
-•	Deep Learning and Neural Networks, Tensor Flow
+•	Deep Learning and Neural Networks, TensorFlow
 •	Web Technologies: HTML, CSS 
 •	Backend Frameworks: Flask    
 
